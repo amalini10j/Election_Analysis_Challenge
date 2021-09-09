@@ -37,14 +37,16 @@ From the above data, **Denver** county received the **highest voter turnout of 8
     - Diana DeGette received 272,892 votes which was 73.8% of votes
     - Raymon Anthony Doane received 11,606 votes which was 3.1% of votes
 
+From the above candidate data, the winner of the election was **Diana DeGette with 272,892 votes which made up 73.8% of votes**
+
+### References
+
 Refer to image below to see the code output on command line:
 
 ![Command Line Output](/Images/ElectionResults_CommandLine.png)
 
 Refer to iamge below to view the election audit results written in a text file:           
 ![Text File Output](/Images/ElectionResults_TextFile.png)
-
-From the above candidate data, the winner of the election was **Diana DeGette with 272,892 votes which made up 73.8% of votes**
 
 ## Election Audit Summary
 The current election audit script is flexible to be used for any other election result with varying no. of counties and/or candidates. It can also be used to perform analysis for a nationwide election by looking into state wise election turnout.
