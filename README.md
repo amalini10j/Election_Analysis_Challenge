@@ -41,7 +41,7 @@ Refer to image below to see the code output on command line:
 
 ![Command Line Output](/Images/ElectionResults_CommandLine.png)
 
-Refer to iamge below to view the electio audit results written in a text file:           
+Refer to iamge below to view the election audit results written in a text file:           
 ![Text File Output](/Images/ElectionResults_TextFile.png)
 
 From the above candidate data, the winner of the election was **Diana DeGette with 272,892 votes which made up 73.8% of votes**
